@@ -1,3 +1,1 @@
-SE3040 – Application Frameworks
-Node.js Practical Lab 03
-This file is used for the Read File demonstration.
+Hello World!
