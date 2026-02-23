@@ -1,0 +1,19 @@
+{
+  "name": "se3040",
+  "version": "1.0.0",
+  "description": "Lab03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sewni2002/SE3040.git"
+  },
+  "author": "Sewni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sewni2002/SE3040/issues"
+  },
+  "homepage": "https://github.com/Sewni2002/SE3040#readme"
+}
